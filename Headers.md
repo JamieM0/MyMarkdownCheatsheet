@@ -104,7 +104,7 @@ Using both is ***kind of OTT***!
 
 ###### STUDY THE IMAGE, "ART", BELOW!
 
-![100%Art](C:\Users\Jamie\Documents\GitHub\MyMarkdownCheatsheet\Images\art.jpg)
+![100%Art](https://raw.githubusercontent.com/Jamium/MyMarkdownCheatsheet/master/Images/art.jpg)
 
 ##### How does it make you feel?
 
